@@ -1,6 +1,6 @@
 # Blog frontend
 
-### This is frontend part of the e-commerce web shop for tyres with possibility to sign in, search, filter and save desired tyres persistently in own cart. It is written in Vue js framework, and application is linked with [backend](https://github.com/brankovitorovic/Blog) with RESTful API. Application is SPA.
+### This is frontend part of the Blog with possibility to sign in, search, filter, write and save desired posts persistently. It is written in Vue js framework, and application is linked with [backend](https://github.com/brankovitorovic/Blog) with RESTful API. Application is SPA.
 
 <details>
   <summary>How to use</summary>
