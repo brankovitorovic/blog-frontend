@@ -23,7 +23,7 @@ export default {
         return res;
       },
       readArticle(post){
-        this.$router.push({ name: 'Article', params: {article: post }}) 
+        this.$router.push({ name: 'Article', params: {article: post }}) // ovo je bitno i trebace ti
       }
     }
    

@@ -23,7 +23,7 @@ const routes = [
   {
     path: '/article',
     name: 'Article',
-    props: true,
+    props: true, // ovo je bitno nece da radi bez ovoga !!!
     component: Article
   },
   {
